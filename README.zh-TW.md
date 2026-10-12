@@ -3,6 +3,7 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
 這是一款適用於 Tampermonkey（篡改猴）的使用者腳本，用於攔截 Bilibili 指定播放頁面中高清畫質試看結束後出現的會員彈窗，減少觀看番劇時受到的干擾。
+![B站高码率试看弹窗示例](bilibili%20Popup.jpg)
 
 ## 功能特色
 

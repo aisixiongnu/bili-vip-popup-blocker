@@ -3,6 +3,7 @@
 [简体中文](README.md)| [繁體中文](README.zh-TW.md) | [English](README.en.md) 
 
 A Tampermonkey userscript that removes supported membership popups appearing after high-quality preview playback ends on selected Bilibili playback pages, helping reduce interruptions while watching anime.
+![B站高码率试看弹窗示例](bilibili%20Popup.jpg)
 
 ## Features
 
